@@ -7,6 +7,8 @@ public class Class01 {
         System.out.println("Version 1 için işlemler tamam!");
         //V2 versiyon 2
         //V3 çalışmaları
+        //V4 çalışmalar
+
     }
 
 }
