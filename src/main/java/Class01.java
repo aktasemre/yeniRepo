@@ -8,7 +8,7 @@ public class Class01 {
         //V2 versiyon 2
         //V3 çalışmaları
         //V4 çalışmalar
-
+        //GitHub değişiklikleri
     }
 
 }
