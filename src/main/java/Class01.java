@@ -5,7 +5,7 @@ public class Class01 {
         int x=1,y=2;
         System.out.println(x+y);
         System.out.println("Version 1 için işlemler tamam!");
-
+        //V2 versiyon 2
     }
 
 }
